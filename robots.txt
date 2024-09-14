@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asbrolog.github.io/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/app/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/assets/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/css/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/includes/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/item/sitemap.html.gz
+Sitemap: https://asbrolog.github.io/src/sitemap.html.gz
